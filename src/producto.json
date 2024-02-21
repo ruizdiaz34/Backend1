@@ -1,0 +1,49 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "title": "cebolla",
+            "description": "chica",
+            "price": 50,
+            "thumbnail": "imagencebolla",
+            "code": 1001,
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "title": "calabaza",
+            "description": "grande",
+            "price": 80,
+            "thumbnail": "imagencalabaza",
+            "code": 1002,
+            "stock": 13
+        },
+        {
+            "id": 3,
+            "title": "papa",
+            "description": "blanca",
+            "price": 60,
+            "thumbnail": "imagenpapa",
+            "code": 1003,
+            "stock": 40
+        },
+        {
+            "id": 4,
+            "title": "manzana",
+            "description": "roja",
+            "price": 30,
+            "thumbnail": "imagenmanzana",
+            "code": 1004,
+            "stock": 100
+        },
+        {
+            "id": 5,
+            "title": "tomate",
+            "description": "roja",
+            "price": 40,
+            "thumbnail": "imagendetomate",
+            "code": 1005,
+            "stock": 100
+        }
+    ]
+}
